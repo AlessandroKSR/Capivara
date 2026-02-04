@@ -1,4 +1,4 @@
-# 🦫 Site sobre Capivaras 🌿
+# 🌿 Site sobre Capivaras 🌿
 
 ## 👋 Seja muito bem-vindo!
 
